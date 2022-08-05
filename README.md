@@ -4,4 +4,4 @@ This repository contains the detailed simulation settings and the source code fo
 
 - [Supplementary Material](/TransRF_supplement.pdf): detailed simulation settings used in the manuscript
 
-- [TransRF R package](https://github.com/yiiihan/TransRF): source code to implement the proposed method with example data
+- [R package](https://github.com/yiiihan/TransRF): source code to implement TransRF with example data
